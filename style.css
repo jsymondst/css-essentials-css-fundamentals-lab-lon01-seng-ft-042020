@@ -29,7 +29,8 @@ figcaption {
   margin:auto;
 }
 #details div{
-  display: float;
+  background: red;
   text-align: center;
   width:25%;
+  float: left;
 }
