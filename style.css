@@ -14,8 +14,8 @@ nav a{
   background: grey;
   padding: 10px;
 }
-figure {
-  margin: auto;
+img {
+  text-align: centre;
 }
 figcaption {
   font-size: 10px; text-align: centre;
