@@ -15,7 +15,8 @@ nav a{
   padding: 10px;
 }
 img {
-  align-content:center;
+  display:block;
+  margin: auto;
   margin: auto;
 }
 figcaption {
