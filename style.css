@@ -29,6 +29,7 @@ figcaption {
   margin:auto;
 }
 #details div{
+  display: block;
   text-align: center;
   width:25%;
 }
